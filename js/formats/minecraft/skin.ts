@@ -924,7 +924,7 @@ skin_presets.steve = {
 				"pivot": [-1.9, 12, 0],
 				"pose": [11, 0, 2],
 				"cubes": [
-					{"name": "Right Leg", "origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16]},
+					{"name": "Right Leg", "origin": [4, 0, -2], "size": [4, 12, 4], "uv": [0, 16]},
 					{"name": "Right Leg Layer", "visibility": false, "origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 32], "inflate": 0.25, "layer": true}
 				]
 			},
@@ -934,7 +934,7 @@ skin_presets.steve = {
 				"pivot": [1.9, 12, 0],
 				"pose": [-10, 0, -2],
 				"cubes": [
-					{"name": "Left Leg", "origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [16, 48]},
+					{"name": "Left Leg", "origin": [0, 0, -2], "size": [4, 12, 4], "uv": [16, 48]},
 					{"name": "Left Leg Layer", "visibility": false, "origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 48], "inflate": 0.25, "layer": true}
 				]
 			}
@@ -1008,7 +1008,7 @@ skin_presets.alex = {
 				"pivot": [-1.9, 12, 0],
 				"pose": [11, 0, 2],
 				"cubes": [
-					{"name": "Right Leg", "origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16]},
+					{"name": "Right Leg", "origin": [4, 0, -2], "size": [4, 12, 4], "uv": [0, 16]},
 					{"name": "Right Leg Layer", "visibility": false, "origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 32], "inflate": 0.25, "layer": true}
 				]
 			},
@@ -1018,7 +1018,7 @@ skin_presets.alex = {
 				"pivot": [1.9, 12, 0],
 				"pose": [-10, 0, -2],
 				"cubes": [
-					{"name": "Left Leg", "origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [16, 48]},
+					{"name": "Left Leg", "origin": [0, 0, -2], "size": [4, 12, 4], "uv": [16, 48]},
 					{"name": "Left Leg Layer", "visibility": false, "origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 48], "inflate": 0.25, "layer": true}
 				]
 			}
